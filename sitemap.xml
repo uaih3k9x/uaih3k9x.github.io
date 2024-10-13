@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://uaih3k9x.github.io/2024/10/14/IPMI%E7%9B%B8%E5%85%B3%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
+    
+    <lastmod>2024-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://uaih3k9x.github.io/2024/09/10/NCS-3008/</loc>
     
     <lastmod>2024-09-16</lastmod>
@@ -40,57 +49,57 @@
 
   <url>
     <loc>http://uaih3k9x.github.io/</loc>
-    <lastmod>2024-09-16</lastmod>
+    <lastmod>2024-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>http://uaih3k9x.github.io/tags/%E8%BF%90%E7%BB%B4/</loc>
+    <lastmod>2024-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://uaih3k9x.github.io/tags/%E6%9C%88%E8%A9%A0%E3%81%BF/</loc>
-    <lastmod>2024-09-16</lastmod>
+    <lastmod>2024-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://uaih3k9x.github.io/tags/%E4%B8%93%E8%BE%91/</loc>
-    <lastmod>2024-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://uaih3k9x.github.io/tags/Cosmo-%E6%9A%B4%E8%B5%B0P/</loc>
-    <lastmod>2024-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://uaih3k9x.github.io/tags/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/</loc>
-    <lastmod>2024-09-16</lastmod>
+    <lastmod>2024-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://uaih3k9x.github.io/tags/Vocaloid/</loc>
-    <lastmod>2024-09-16</lastmod>
+    <lastmod>2024-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://uaih3k9x.github.io/tags/Cosmo-%E6%9A%B4%E8%B5%B0P/</loc>
+    <lastmod>2024-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://uaih3k9x.github.io/tags/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/</loc>
+    <lastmod>2024-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://uaih3k9x.github.io/tags/CD%E8%AF%84%E6%B5%8B/</loc>
-    <lastmod>2024-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://uaih3k9x.github.io/tags/%E8%BF%90%E7%BB%B4/</loc>
-    <lastmod>2024-09-16</lastmod>
+    <lastmod>2024-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -99,7 +108,7 @@
   
   <url>
     <loc>http://uaih3k9x.github.io/categories/%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2024-09-16</lastmod>
+    <lastmod>2024-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
